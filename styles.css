@@ -1,9 +1,4 @@
-/*- Soft blue: hsl(215, 51%, 70%)
-- Cyan: hsl(178, 100%, 50%)
-- Very dark blue (main BG): hsl(217, 54%, 11%)
-- Very dark blue (card BG): hsl(216, 50%, 16%)
-- Very dark blue (line): hsl(215, 32%, 27%)
-- White: hsl(0, 0%, 100%)*/
+
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;700&display=swap');
 
 *{ 
@@ -43,7 +38,7 @@ body{
 
 .container .container-of-image:hover{ 
     
-    background:url(/images/icon-view.svg) hsl(178, 100%, 50%) center;
+    background:url(/icon-view.svg) hsl(178, 100%, 50%) center;
     background-repeat: no-repeat;
     overflow: hidden;
     padding-bottom: 0;
